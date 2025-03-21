@@ -1,5 +1,6 @@
 # AREP--LangChain-RAG
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18y16pojKJ1fb8bXdm_fBkbty8oIkTpW-?usp=sharing)
 
 
 ## Overview
